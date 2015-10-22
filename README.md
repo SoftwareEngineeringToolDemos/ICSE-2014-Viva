@@ -1,6 +1,6 @@
 # ICSE-2014-Viva
 
-This repository is contains information related to the tool VIVA presented in International Conference on Software Engineering, 2014. The tool was originally presented in [this paper](http://ronia.net/papers/icse2014_lee.pdf)
+This repository is contains information related to the tool ViVA presented in International Conference on Software Engineering, 2014. The tool was originally presented in [this paper](http://ronia.net/papers/icse2014_lee.pdf)
 
 This repository *is not* the original repository for this tool. Here are some links to the original project:
 
