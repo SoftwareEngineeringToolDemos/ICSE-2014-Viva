@@ -1,9 +1,14 @@
 # ICSE-2014-Viva
-Repository for Tool Viva : created for SE 510 class under Dr. Emerson Murphy Hil 
-This repository is contains information related to the tool VIVA presented in ICSE, 2014 . Link to paper : http://ronia.net/papers/icse2014_lee.pdf
 
-This repository is not the original repository for this tool. Here are some links to the original project:
+This repository is contains information related to the tool ViVA presented in International Conference on Software Engineering, 2014. The tool was originally presented in [this paper](http://ronia.net/papers/icse2014_lee.pdf)
 
-https://github.com/younkyul/ViVA
+This repository *is not* the original repository for this tool. Here are some links to the original project:
 
-This repository was constructed by Esha Sharma under the supervision of Emerson Murphy-Hill. Thanks to Apoorv Mahajan , Pankti Desai , Dheeraj Shetty for their help in establishing this repository.
+* [Original repository for tool](https://github.com/younkyul/ViVA)
+* [Video of the tool](https://www.youtube.com/watch?v=jHVwuR5AYgA)
+
+In this repository, for ExampleTool you will find:</br>
+:white_check_mark:[Souce code](https://github.com/younkyul/ViVA)</br>
+:white_check_mark:[Original Tool](https://github.com/younkyul/ViVA/blob/master/VIVA_2.5.jar)</br>
+
+This repository was constructed by [Esha Sharma](https://github.com/eshasharma) under the supervision of [Dr Emerson Murphy-Hill](https://github.com/CaptainEmerson).
