@@ -12,3 +12,5 @@ In this repository, for ExampleTool you will find:</br>
 :white_check_mark:[Original Tool](https://github.com/younkyul/ViVA/blob/master/VIVA_2.5.jar)</br>
 
 This repository was constructed by [Esha Sharma](https://github.com/eshasharma) under the supervision of [Dr Emerson Murphy-Hill](https://github.com/CaptainEmerson).
+
+ Thanks to Dr.Youn Kyu Lee, Dr.Jae young Bang, Dr.Joshua Garcia, and Dr.Nenad Medvidovic for their help in establishing this repository.
