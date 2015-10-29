@@ -13,4 +13,4 @@ In this repository, for ExampleTool you will find:</br>
 
 This repository was constructed by [Esha Sharma](https://github.com/eshasharma) under the supervision of [Dr Emerson Murphy-Hill](https://github.com/CaptainEmerson).
 
- Thanks to Dr.Youn Kyu Lee, Dr.Jae young Bang, Dr.Joshua Garcia, and Dr.Nenad Medvidovic for their help in establishing this repository.
+ Thanks to Dr.Youn Kyu Lee, Dr.Jae Young Bang, Dr.Joshua Garcia, and Dr.Nenad Medvidovic for their help in establishing this repository.
