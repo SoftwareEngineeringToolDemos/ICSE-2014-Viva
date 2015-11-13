@@ -23,7 +23,7 @@ Java(TM) SE Runtime Environment (build 1.8.0_66-b17)
 Java HotSpot(TM) 64-Bit Server VM (build 25.66-b17, mixed mode)
 ~~~
 # Acknowledgments
-* Used vagrant virtual box image of [ubuntu-trusty64-gui by chad-thompson](https://atlas.hashicorp.com/chad-thompson/boxes/ubuntu-trusty64-gui).
+* Used vagrant virtual box image of [boxcutter/ubuntu1404-desktop ](https://atlas.hashicorp.com/boxcutter/boxes/ubuntu1404-desktop).
 
 #References
 * https://docs.vagrantup.com/v2/getting-started/index.html
