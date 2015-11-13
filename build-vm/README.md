@@ -1,8 +1,3 @@
-Acknowledgements : 
-1. how to configure the virtual box using vagrant has been taken from here: (https://docs.vagrantup.com/v2/virtualbox/configuration.html)
-2. how to install java has been taken from here: 
-   (https://github.com/aglover/ubuntu-equip)
-
 #Steps to create Virtual Machine using Vagrant
 1. Download and Install [Virtual Box](https://www.virtualbox.org/wiki/Downloads) on the host machine.
 2. Download and Install [Vagrant](https://www.vagrantup.com/downloads.html) on the host machine.
