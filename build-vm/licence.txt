@@ -1,0 +1,5 @@
+Licences for softwares in the VM : 
+1. VIVA: The tool diplayed in this paper is from the paper : http://ronia.net/papers/icse2014_lee.pdf authored by Youn Kyu Lee, Jae young Bang, Joshua Garcia, and Nenad Medvidovic . According to the paper : 
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page.
+2. JRE 8 : The Java™ Platform, Standard Edition Runtime Environment (JRE) is intended for software developers and vendors to redistribute with their applications.(quoted from the JRE 8 Readme) 
+3. Ubuntu 14.04 : All of the application software installed by default is free software. In addition, we install some hardware drivers that are available only in binary format, but such packages are clearly marked in the restricted component.(quoted from http://www.ubuntu.com/about/about-ubuntu/licensing)
