@@ -19,25 +19,25 @@ Vagrant.configure(2) do |config|
      
     git clone https://github.com/SoftwareEngineeringToolDemos/ICSE-2014-Viva.git
     cd ICSE-2014-Viva/build-vm
-    sudo chmod +x commands.sh
-    cp commands.sh ../../commands.sh 
-    cp Viva.desktop ../../Viva.desktop
-    cp Readme.txt ../../Readme.txt
-    cp -r Licenses/ ../../Licenses
-    cp Installation.txt ../../Installation.txt	
-    cp -r ../Binary/ ../../VivaBinary/
-    cp VivaAuthorDemonstration.desktop ../../VivaAuthorDemonstration.desktop
-    cp VivaDemoVideo.desktop ../../VivaDemoVideo.desktop
+    cp Viva.desktop /home/vagrant/Desktop
+    cp readme.txt /home/vagrant/Desktop
+    cp license.txt /home/vagrant/Desktop
+    cp installation.txt /home/vagrant/Desktop	
+    cp -r ../Binary/viva.jar /home/vagrant/Desktop
+    cp VivaAuthorDemonstration.desktop /home/vagrant/Desktop
+    cp VivaDemoVideo.desktop /home/vagrant/Desktop
     
-    cd ../../
-    tar xvzf RefDistillerWorkspace.tar.gz
+    
+    
     sudo mkdir "/home/vagrant/.config/autostart"
     sudo cp Viva.desktop /home/vagrant/.config/autostart/Viva.desktop
-	
+   	
     #Remove unused Launcher Applications
     sudo rm -f "/usr/share/applications/ubuntu-amazon-default.desktop"
     sudo rm -f "/usr/share/applications/ubuntu-software-center.desktop"
-    sudo reboot
+    sudo rm -f "/usr/share/applications/libreoffice-*.desktop"
+    sudo rm -f "/usr/share/applications/unity-control-center.desktop"
+    
 
    SHELL
 end
