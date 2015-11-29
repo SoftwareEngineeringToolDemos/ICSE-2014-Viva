@@ -11,19 +11,20 @@ Vagrant.configure(2) do |config|
   config.vm.provision "shell", inline: <<-SHELL
     sudo add-apt-repository ppa:webupd8team/java
     sudo apt-get update -y
+    # Install Java
     echo "oracle-java8-installer shared/accepted-oracle-license-v1-1 select true" | sudo debconf-set-selections
     sudo apt-get install -y oracle-java8-installer
-  
+    # Install git utility
     sudo apt-get -y install git
-    #dconf write /org/gnome/desktop/screensaver/idle-activation-enabled false
-   # dconf write /org/gnome/desktop/screensaver/lock-enabled false
+    
      
     cd Desktop
+    # Get Scripts from github repository
     git clone https://github.com/SoftwareEngineeringToolDemos/ICSE-2014-Viva.git
     cd ICSE-2014-Viva/build-vm
 
 sudo chmod +x commands.sh
-
+    # Copy files on the desktop
 
     cp commands.sh /home/vagrant/Desktop/commands.sh
     cp Viva.desktop /home/vagrant/Desktop
@@ -34,7 +35,7 @@ sudo chmod +x commands.sh
     cp VivaAuthorDemonstration.desktop /home/vagrant/Desktop
     cp VivaDemoVideo.desktop /home/vagrant/Desktop
     
-       
+    # Enable tool to run on startup   
     sudo mkdir "/home/vagrant/.config/autostart"
     sudo cp Viva.desktop /home/vagrant/.config/autostart/Viva.desktop
        
