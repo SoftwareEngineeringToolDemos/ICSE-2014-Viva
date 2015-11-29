@@ -1,5 +1,5 @@
 [Desktop Entry]
 Name[en_US]=Viva
-Exec=gnome-terminal -e "bash -c 'sudo /home/vagrant/ICSE-2014-Viva/built-vm/commands.sh;$SHELL'"
+Exec=gnome-terminal -e "bash -c 'sudo /home/desktop/built-vm/commands.sh;$SHELL'"
 Terminal=true
 Type=Application
