@@ -41,7 +41,6 @@ sudo chmod +x commands.sh
     #Remove unused Launcher Applications
     sudo rm /usr/share/applications/ubuntu-amazon-default.desktop
     sudo rm /usr/share/applications/ubuntu-software-center.desktop
-    sudo rm /usr/share/applications/libreoffice.desktop
     sudo rm /usr/share/applications/unity-control-center.desktop
     
     sudo reboot
