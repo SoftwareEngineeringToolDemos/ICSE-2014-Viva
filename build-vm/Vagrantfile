@@ -28,8 +28,7 @@ Vagrant.configure(2) do |config|
     cp VivaAuthorDemonstration.desktop /home/vagrant/Desktop
     cp VivaDemoVideo.desktop /home/vagrant/Desktop
     
-    sudo chmod +x commands.sh
-    
+       
     sudo mkdir "/home/vagrant/.config/autostart"
     sudo cp Viva.desktop /home/vagrant/.config/autostart/Viva.desktop
    	
