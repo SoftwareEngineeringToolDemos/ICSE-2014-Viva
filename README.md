@@ -8,7 +8,8 @@ This repository *is not* the original repository for this tool. Here are some li
 * [Video of the tool](https://www.youtube.com/watch?v=jHVwuR5AYgA)
 
 In this repository, for ExampleTool you will find:</br>
-:white_check_mark:[Souce code](https://github.com/younkyul/ViVA)</br>
+* :x: Source code (not available)
+:white_check_mark:[Binary](https://github.com/younkyul/ViVA)</br>
 :white_check_mark:[Original Tool](https://github.com/younkyul/ViVA/blob/master/VIVA_2.5.jar)</br>
 
 This repository was constructed by [Esha Sharma](https://github.com/eshasharma) under the supervision of [Dr Emerson Murphy-Hill](https://github.com/CaptainEmerson).
