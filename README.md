@@ -10,9 +10,8 @@ This repository *is not* the original repository for this tool. Here are some li
 
 In this repository, for Viva you will find:</br>
 * :x: Source code (not available)</br>
-* :white_check_mark: [Original Binary](https://github.com/younkyul/ViVA/blob/master/VIVA_2.5.jar)</br>
 * :white_check_mark: [A slightly modified version of the source code](https://github.com/SoftwareEngineeringToolDemos/ICSE-2014-Viva/tree/master/Binary), [Esha Sharma](https://github.com/eshasharma) got working </br>
-* :white_check_mark: [Virtual machine containing the tool](https://drive.google.com/open?id=0B6rJ6-ggrSwURnlzOG00QXBobUE) (available)
+* :x: Virtual machine containing tool (not available)
 
 This repository was constructed by [Esha Sharma](https://github.com/eshasharma) under the supervision of [Dr Emerson Murphy-Hill](https://github.com/CaptainEmerson).
 
